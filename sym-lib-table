@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name allwinner-v3s)(type Legacy)(uri ${KIPRJMOD}/allwinner-v3s.lib)(options "")(descr ""))
+  (lib (name con-usb)(type Legacy)(uri /disk/d/code/pcblib/KiCAD_all_lib/con-usb.lib)(options "")(descr ""))
+  (lib (name con-usb-2)(type Legacy)(uri /disk/d/code/pcblib/KiCAD_all_lib/con-usb-2.lib)(options "")(descr ""))
+)
